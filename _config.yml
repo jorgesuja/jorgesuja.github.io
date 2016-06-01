@@ -4,7 +4,7 @@
 ####################################
 #
 title:       "Jorge Suja"
-description: "Programador web"
+description: "Full stack developer"
 url:         # the base hostname & protocol for your site
 
 #
@@ -32,9 +32,9 @@ kramdown:
 #
 owner:
   name: Jorge Suja
-  avatar: https://avatars0.githubusercontent.com/jorgesuja
-  job: "Programador web"
-  bio: "pure awesome"
+  avatar: avatar.jpg
+  job: "Full stack developer"
+  bio: "Currently working with my friends Ruby & React"
   email: jorgesuja@hotmail.com
   disqus-shortname: jorgesujablog
   twitter: #username

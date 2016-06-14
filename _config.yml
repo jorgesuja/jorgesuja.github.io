@@ -2,7 +2,7 @@
 # Site wide configuration
 ###################################
 title:       "Jorge Suja"
-description: "Personal blog"
+description: "Bienvenidos a mi blog!"
 url:         # the base hostname & protocol for your site
 
 ###################################
@@ -27,15 +27,15 @@ kramdown:
 owner:
   name: Jorge Suja
   avatar: avatar.jpg
-  job: "Full stack developer"
-  bio: "Currently working with Ruby on Rails & React"
+  job: "Desarrollador Full Stack"
+  bio: "Java - Ruby on Rails - React"
   email: jorgesuja@hotmail.com
   disqus-shortname: jorgesujablog
   twitter: #username
   facebook: #username
   google:
     plus:
-    analytics:
+    analytics: "UA-79230836-1"
     verify:
     ad-client:
     ad-slot:

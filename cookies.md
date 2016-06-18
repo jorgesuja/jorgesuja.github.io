@@ -29,3 +29,4 @@ En particular, este sitio Web utiliza las siguientes cookies de terceros:
 * Cookies de la aplicación "disqus". Disqus es un servicio gratuito que permite añadir comentarios a diferentes elementos de este sitio web. Disqus guarda en cookies vuestras identificaciones anteriores en este sitio web o en otro para que no sea necesario iniciar sesión cada vez que utilice el mismo ordenador.
 
 **El Usuario acepta expresamente, por la utilización de este Site, el tratamiento de la información recabada en la forma y con los fines anteriormente mencionados.** Y asimismo reconoce conocer la posibilidad de rechazar el tratamiento de tales datos o información rechazando el uso de Cookies mediante la selección de la configuración apropiada a tal fin en su navegador. Si bien esta opción de bloqueo de Cookies en su navegador puede no permitirle el uso pleno de todas las funcionalidades del Website.
+{: .notice}
